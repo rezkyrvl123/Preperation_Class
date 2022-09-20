@@ -1,8 +1,5 @@
 Nama : Rezky Widyatulloh
 Stack : QA
-<<<<<<< HEAD
 Branch : main
 Tambahan line di main
-=======
 Branch : sesiSore
->>>>>>> sesiSore
